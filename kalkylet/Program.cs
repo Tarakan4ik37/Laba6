@@ -11,7 +11,7 @@ namespace SimpleCalculator
             Console.Write("Введите первое число: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Введите оператор (+, -, *, /): ");
+            Console.Write("Введите оператор (+, -, *, /,^): ");
             char operation = Console.ReadKey().KeyChar;
             Console.WriteLine();  // Перенос строки после оператора
 
@@ -22,6 +22,9 @@ namespace SimpleCalculator
 
             switch (operation)
             {
+                case '^':
+                    result = Math.Pow(num1, num2);
+                    break;
                 case '+':
                     result = num1 + num2;
                     break;
