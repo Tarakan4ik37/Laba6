@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\bin\Debug\kalkylet.exe.config
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\bin\Debug\kalkylet.exe
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\bin\Debug\kalkylet.pdb
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\obj\Debug\kalkylet.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\obj\Debug\kalkylet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\obj\Debug\kalkylet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\obj\Debug\kalkylet.exe
+C:\Users\Admin\Desktop\Языки\laba6\Laba6\kalkylet\obj\Debug\kalkylet.pdb
