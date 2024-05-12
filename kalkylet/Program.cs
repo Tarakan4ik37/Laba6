@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace SimpleCalculator
 {
@@ -8,20 +9,25 @@ namespace SimpleCalculator
         {
             Console.WriteLine("Привет");
 
+            Console.WriteLine("Контроль нажатия клавиш. Для выхода нажмите Esc.");
+
+         
+
             Console.Write("Введите первое число: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Введите оператор (+, -, *, /): ");
             char operation = Console.ReadKey().KeyChar;
             Console.WriteLine();  // Перенос строки после оператора
-
+            
             Console.Write("Введите второе число: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
 
             double result = 0;
+            
 
             switch (operation)
-            {
+            {               
                 case '+':
                     result = num1 + num2;
                     break;
