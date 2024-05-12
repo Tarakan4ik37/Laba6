@@ -6,7 +6,7 @@ namespace SimpleCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Простой калькулятор на C#");
+            Console.WriteLine("Привет");
 
             Console.Write("Введите первое число: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
